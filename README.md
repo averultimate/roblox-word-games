@@ -10,7 +10,7 @@ You may submit new words in the issues tab with the template.
 
 The way words get into my word games is when these conditions are met:
 
-- The word has ~5,000 - 10,000 results on Google when searching *"define "(word_" -blog"*
+- The word has ~5,000 - 10,000 results on Google when searching *"define "(word)" -blog"*
 - The word is family-friendly, Roblox compatible
 	* If even though the word means something harmless, but words sounding like another profanity is **not** allowed
 - The word has a certain definition
